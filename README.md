@@ -21,6 +21,6 @@ Then add **hubot-httpcats** to your `external-scripts.json`:
 ## Sample Interaction
 
 ```
-user1>> hubot hello
-hubot>> hello!
+user1>> Oh noes! App is returning a 500 error!
+hubot>> https://http.cats/500
 ```
