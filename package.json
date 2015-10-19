@@ -1,7 +1,7 @@
 {
   "name": "hubot-httpcats",
   "description": "Gives you a cat from http.cat when an HTTP error code is mentioned.",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "author": "Nick Butler <nick@codeindulgence.com>",
   "license": "MIT",
 
