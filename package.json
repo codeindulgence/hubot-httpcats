@@ -9,11 +9,11 @@
 
   "repository": {
     "type": "git",
-    "url": "git://github.com/hubot-scripts/hubot-httpcats.git"
+    "url": "https://github.com/codeindulgence/hubot-httpcats"
   },
 
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-httpcats/issues"
+    "url": "https://github.com/codeindulgence/hubot-httpcats/issues"
   },
 
   "dependencies": {
