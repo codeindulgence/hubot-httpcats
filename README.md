@@ -22,5 +22,5 @@ Then add **hubot-httpcats** to your `external-scripts.json`:
 
 ```
 user1>> Oh noes! App is returning a 500 error!
-hubot>> https://http.cats/500
+hubot>> https://http.cat/500
 ```
